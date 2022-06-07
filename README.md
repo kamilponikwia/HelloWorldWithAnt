@@ -1,1 +1,1 @@
-# Hello World in Java with Ant / Log4J / JUnit
+# Hello World in Java with Ant / JUnit / Log4J lib
